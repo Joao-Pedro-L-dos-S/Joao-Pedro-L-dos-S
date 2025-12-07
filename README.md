@@ -119,9 +119,11 @@ Trabalho com desenvolvimento de soluções em Python, especializado em computaç
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joao-Pedro-L-dos-S&theme=dark&show_icons=true&include_all_commits=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joao-Pedro-L-dos-S&theme=dark&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/Joao-Pedro-L-dos-S)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-L-dos-S&theme=dark&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-L-dos-S&theme=dark&layout=compact&hide_border=true)](https://github.com/Joao-Pedro-L-dos-S)
+
+**Acesse meu perfil para mais detalhes sobre minhas atividades e repositórios!**
 
 </div>
 
