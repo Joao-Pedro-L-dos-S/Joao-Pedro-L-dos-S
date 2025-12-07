@@ -11,7 +11,6 @@ Sou **João Pedro**, desenvolvedor e pesquisador apaixonado por **computação c
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-pedro-l-dos-s)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joao-Pedro-L-dos-S)
 [![Lattes](https://img.shields.io/badge/Currículo%20Lattes-CC0000?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/9557320858649913)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jopedro729)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/a5b295798ee92266107460c55532aa4c)
