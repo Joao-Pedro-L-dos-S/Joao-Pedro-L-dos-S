@@ -131,9 +131,6 @@ Trabalho com desenvolvimento de soluções em Python, especializado em computaç
 - Foco em **computação científica, machine learning e desenvolvimento backend**
 - Ativamente participando em **Kaggle, Coursera, Zindi e GitHub**
 
-### 🎯 Contribuições
-Você pode acompanhar minhas atividades em tempo real visitando meu [perfil do GitHub](https://github.com/Joao-Pedro-L-dos-S)!
-
 </div>
 
 ---
