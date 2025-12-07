@@ -115,15 +115,24 @@ Trabalho com desenvolvimento de soluções em Python, especializado em computaç
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 Estatísticas & Atividade
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joao-Pedro-L-dos-S&theme=dark&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/Joao-Pedro-L-dos-S)
+### 🔝 Linguagens Principais
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-L-dos-S&theme=dark&layout=compact&hide_border=true)](https://github.com/Joao-Pedro-L-dos-S)
+- **Python** - 50% dos repositórios (Computação Científica, Machine Learning, Backend)
+- **JavaScript/TypeScript** - 25% (Frontend Web, Astro)
+- **Jupyter Notebook** - 25% (Análise de Dados, Processamento de Imagens)
+- **Julia & Fortran** - Especialização em Computação Científica
 
-**Acesse meu perfil para mais detalhes sobre minhas atividades e repositórios!**
+### 📈 Repositórios Públicos
+- **12 repositórios** no total
+- Foco em **computação científica, machine learning e desenvolvimento backend**
+- Ativamente participando em **Kaggle, Coursera, Zindi e GitHub**
+
+### 🎯 Contribuições
+Você pode acompanhar minhas atividades em tempo real visitando meu [perfil do GitHub](https://github.com/Joao-Pedro-L-dos-S)!
 
 </div>
 
