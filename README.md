@@ -15,6 +15,7 @@ Sou **João Pedro**, desenvolvedor e pesquisador apaixonado por **computação c
 [![Lattes](https://img.shields.io/badge/Currículo%20Lattes-CC0000?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/9557320858649913)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jopedro729)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/a5b295798ee92266107460c55532aa4c)
+[![BeeCrowd](https://img.shields.io/badge/BeeCrowd-FF9800?style=for-the-badge&logo=codecademy&logoColor=white)](https://judge.beecrowd.com/pt/profile/364933)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/astromoleculas)
 [![Zindi](https://img.shields.io/badge/Zindi-FF6B6B?style=for-the-badge&logo=zindi&logoColor=white)](https://zindi.africa/users/joaopedrojp9)
 
