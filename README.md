@@ -24,7 +24,7 @@ Sou **João Pedro**, desenvolvedor e pesquisador apaixonado por **computação c
 
 ## 🎯 Sobre Mim
 
-Trabalho com desenvolvimento de soluções em Python, especializado em computação científica, aprendizado de máquina e processamento de dados. Tenho experiência com ferramentas modernas de desenvolvimento backend e estou sempre explorando novas linguagens e paradigmas.
+Atualmente faço Iniciação Científica em machine learning quântico pela SENAC e também na Quali.tech, tenho mais de 5 anos de experiência com computação científica, com python sendo a linguagem de maior uso,  estou me aventurando em machine learning com Julia para aplicações em dados astroquímicos e em otimização quântica. Faço duas faculdades, sendo a primeira em matemática aplicada e computacional pela UFG e um tecnólogo em banco de dados pela SENAC, às vezes participos de algumas competições de ML, sou entusiasta de tecnologias (meu computador atual é um raspberry pi) e estou construindo um repertório acadêmico para entrar futuramente no mestrado e doutorado em computação científica.
 
 **📍 Localização:** Goiânia - GO - Brasil
 
