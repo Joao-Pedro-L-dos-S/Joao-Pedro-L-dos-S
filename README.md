@@ -32,11 +32,20 @@ Trabalho com desenvolvimento de soluções em Python, especializado em computaç
 
 ## 🛠️ Tecnologias & Habilidades
 
-### 🔬 Computação Científica & Machine Learning
+### 💻 Linguagens de Programação
 
 <div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat&logo=fortran&logoColor=white)
+
+</div>
+
+### 🔬 Computação Científica & Machine Learning
+
+<div>
+
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -44,19 +53,6 @@ Trabalho com desenvolvimento de soluções em Python, especializado em computaç
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 
-</div>
-
-### 💻 Linguagens de Programação
-
-<div>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat&logo=fortran&logoColor=white)
-
-</div>
 
 ### 🎨 Markup & Styling
 
@@ -64,17 +60,6 @@ Trabalho com desenvolvimento de soluções em Python, especializado em computaç
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-</div>
-
-### 🌐 Backend & Web
-
-<div>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat&logo=api&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-427819?style=flat&logo=makefile&logoColor=white)
 
 </div>
 
