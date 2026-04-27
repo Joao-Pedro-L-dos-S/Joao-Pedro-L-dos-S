@@ -24,7 +24,7 @@ Sou **João Pedro**, desenvolvedor e pesquisador apaixonado por **computação c
 
 ## 🚀 BatCode
 
-**BatCode** é minha empresa focada em soluções de software e tecnologia. Desenvolvemos aplicações web modernas e robustas para transformar ideias em realidade.
+**BatCode** é uma equipe de desenvolvedores onde sou AI Trainer.
 
 🌐 **Website:** [https://batcode.up.railway.app/](https://batcode.up.railway.app/)
 
