@@ -22,17 +22,9 @@ Sou **João Pedro**, desenvolvedor e pesquisador apaixonado por **computação c
 
 ---
 
-## 🚀 BatCode
-
-**BatCode** é uma equipe de desenvolvedores onde sou AI Trainer.
-
-🌐 **Website:** [https://batcode.up.railway.app/](https://batcode.up.railway.app/)
-
----
-
 ## 🎯 Sobre Mim
 
-Atualmente faço Iniciação Científica em machine learning quântico pela SENAC e também na Quali.tech, tenho mais de 5 anos de experiência com computação científica, com python sendo a linguagem de maior uso,  estou me aventurando em machine learning com Julia para aplicações em dados astroquímicos e em otimização quântica. Faço duas faculdades e um técnico, sendo elas técnólogo em Análise e Desenvolvimento de Sistemas pela SENAC, tecnólogo em Banco de Dados também pela SENAC e técnico em Inteligência Artificial pelo IFNMG, às vezes participo de algumas competições de ML, sou entusiasta de tecnologias (meu computador atual é um raspberry pi) e estou construindo um repertório acadêmico para entrar futuramente no mestrado e doutorado em computação científica.
+Atualmente faço Iniciação Científica em machine learning quântico pela SENAC, tenho mais de 5 anos de experiência com computação científica, com python sendo a linguagem de maior uso,  estou me aventurando em machine learning com Julia para aplicações em dados astroquímicos e em otimização quântica. sou formado em Analise de Sistemas pelo SENAC, faço um tecnólogo em Banco de Dados também pelo SENAC e um técnico em Inteligência Artificial pelo IFNMG, às vezes participo de algumas competições de ML, sou entusiasta de tecnologias alternativas (meu computador atual é um workstation dual CPU) e estou construindo um repertório acadêmico para entrar futuramente no mestrado e doutorado em computação científica.
 
 **📍 Localização:** Goiânia - GO - Brasil
 
